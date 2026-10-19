@@ -39,7 +39,7 @@ Acesse o material de cada módulo nos links abaixo:
    * Formatação com `f-strings`
    * Junção com o operador `+` e conversão com `str()`
 
-*[🟠 **Módulo 03: Git e Github**](./modulo-04/readme.md)
+* [🟠 **Módulo 03: Git e Github**](./modulo-04/readme.md)
     * Instalação e configuração Git
     * Criação de conta no Github
     * Criar um repositório 
