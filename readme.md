@@ -28,7 +28,7 @@ Acesse o material de cada módulo nos links abaixo:
    * Configuração do VS Code e Google Colab
    * Executando o primeiro `print("Olá, mundo!")`
 
-* [🔵 **Módulo 01: Variáveis e Tipos de Dados**](./modulo-01/readme.md)
+* [🔵 **Módulo 01: Variáveis e Tipos de Dados**](./modulo-01/tipos-e-variaveis.ipynb)
    * Criando variáveis e atribuição de valores
    * Tipos primitivos (`int`, `float`, `str`, `bool`, `NoneType`)
    * Regras para nomear variáveis e palavras reservadas
