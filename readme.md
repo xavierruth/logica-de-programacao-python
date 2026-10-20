@@ -34,12 +34,7 @@ Acesse o material de cada módulo nos links abaixo:
    * Regras para nomear variáveis e palavras reservadas
    * Identificando tipos com `type()`
 
-* [🟣 **Módulo 02: Saída de Dados e Concatenação**](./modulo-02/readme.md)
-   * Exibição com vírgulas
-   * Formatação com `f-strings`
-   * Junção com o operador `+` e conversão com `str()`
-
-* [🟠 **Módulo 03: Git e Github**](./modulo-04/readme.md)
+* [🟠 **Módulo 02: Git e Github**](./modulo-02/readme.md)
     * Instalação e configuração Git
     * Criação de conta no Github
     * Criar um repositório 
