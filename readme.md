@@ -41,6 +41,10 @@ Acesse o material de cada módulo nos links abaixo:
     * Clonar repositório
     * Comandos git pelo VSCode
 
+* [**Módulo 03: Expressões e Operadores**](./modulo-03/expressoes-e-operadores.ipynb)
+   * Conversão dos tipos das variáveis
+   
+
 ---
 
 ## 📩 Dúvidas
